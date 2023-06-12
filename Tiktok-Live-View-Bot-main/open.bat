@@ -1,3 +1,3 @@
 @echo off
-python C:\Users\darth\Downloads\Tiktok-Live-View-Bot-main\Tiktok-Live-View-Bot-main\stupid.py
+python (REMOVE THIS AND PUT THE PATH U WANT TO SO AND REMOVE THE BRACKETS TOO IF YOU PEN IT AND IT SAYS NO MODULE FOUND THEN THE NAME IN A COMMAND PROMPT PUT PIP INSTALL 'MODULE NAME') 
 pause
