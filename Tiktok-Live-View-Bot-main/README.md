@@ -8,7 +8,7 @@ Bot works using session cookies + emulated android devices list.
 
 This tool is however not free since I work hard for this so sorry for not sharing it. <<<<<<< IDGAF WE AINT PAYIN BITCH 
 You can use a demo trial version then contact me on Telegram if you want more:<br> <<<<<<<<< FUCK A DEMO FREE FULL VERSION BITCH
-<b>Telegram:</b> https://t.me/dev_bot_official<br>
+<b>Telegram:</b> https://t.me/dev_bot_official<br> <<<<<<<<<< SPAM THEIR TELEGRAM
 
 <h3>What Can Do This TikTok Bot?</h3>
 - View video<br>
