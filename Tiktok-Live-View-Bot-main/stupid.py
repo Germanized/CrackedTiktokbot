@@ -24,7 +24,7 @@ def Banner():
     """
     Banner2 = r"""
     """
-    print(Center.XCenter(Colorate.Vertical(Colors.blue_to_red, Add.Add(Banner2, Banner1, center=True), 2)))
+    print(Center.XCenter(Colorate.Vertical(Colors.yellow_to_green, Add.Add(Banner2, Banner1, center=True), 2)))
 
 
 class BlockCookies(cookiejar.CookiePolicy):
