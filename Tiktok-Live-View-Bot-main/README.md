@@ -1,6 +1,6 @@
 # Tiktok View Bot - No-Browser type.
 <br>v1.0.9 - 12th April 2023<br>
-THOS IS FROM THE PEOPLE WHO MADE IT WE DONT PAY FOR SHIT AROUND HERE FUCK dblabs
+THIS IS FROM THE PEOPLE WHO MADE IT WE DONT PAY FOR SHIT AROUND HERE FUCK dblabs
 Tiktok view bot made in Python works on offline and Live stream video, it is not browser or selenium pure HTTP-Request bot.
 
 This bot doesn't use any proxies, however you can add rotating proxy in your windows and then on each request the new IP will be assigned.
